@@ -1,0 +1,12 @@
+#titre {
+   color: blue;
+   font-size: 0.8em;
+}
+.emphasized {
+   font-size: 1.2em;
+}
+
+.gdbar {
+  width: 400px !important;
+  height: 170px !important;
+}
